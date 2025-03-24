@@ -4,7 +4,7 @@ Methodology to spoof caller id
 
 In 5 steps :)))
 
-Purchase an account on diamondcard.us (or any sip operator that have screen no clip option)  
+Purchase an account on diamondcard.us (or any sip operator that have clip no screening option)  
 
 ![](1.png)  
   
